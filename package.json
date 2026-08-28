@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alphagov/pay-product-page.git"
+    "url": "git+https://github.com/govuk-pay/pay-product-page.git"
   },
   "author": "Government Digital Service developers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alphagov/pay-product-page/issues"
+    "url": "https://github.com/govuk-pay/pay-product-page/issues"
   },
   "homepage": "https://www.payments.service.gov.uk",
   "dependencies": {
