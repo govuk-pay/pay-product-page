@@ -1,13 +1,13 @@
 {
-  "dateUpdated": "12 October 2026",
-  "numberOfPayments": "148.5 million",
+  "dateUpdated": "19 October 2026",
+  "numberOfPayments": "149.1 million",
   "totalPaymentAmount": "10.0 billion",
   "numberOfServices": 1803,
   "numberOfOrganisations": 643,
   "serviceCountBySector": {
-    "local": 686,
+    "local": 685,
     "central": 367,
-    "police": 268,
+    "police": 269,
     "nhstrust": 256,
     "other": 159,
     "nhscentral": 66
@@ -347,7 +347,6 @@
     "Middlesbrough Borough Council": 1,
     "Middlesex Wing ATC": 1,
     "Midlothian Council": 1,
-    "Milborne Port Parish Council": 1,
     "Milton Keynes City Council": 1,
     "Ministry Of Justice": 1,
     "Ministry of Defence": 3,
@@ -640,6 +639,7 @@
     "West Mercian Wing Royal Air Force Air Cadets": 1,
     "West Moors Town Council": 1,
     "West Suffolk NHS": 1,
+    "West Yorkshire Combined Authority": 1,
     "West Yorkshire Combined Authority - West Yorkshire Police": 1,
     "West Yorkshire Police": 2,
     "Westmorland and Furness Council": 12,
