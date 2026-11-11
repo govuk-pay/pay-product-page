@@ -118,7 +118,7 @@ GEM
     prettier_print (1.2.1)
     prism (2.1.0)
     public_suffix (7.0.5)
-    rack (3.1.22)
+    rack (3.1.23)
     rack-livereload (0.6.1)
       rack (>= 3.0, < 3.2)
     rackup (2.3.1)
